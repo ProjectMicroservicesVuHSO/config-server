@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: hus.vuhso.configserver.ConfigServerApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.489 s -- in hus.vuhso.configserver.ConfigServerApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.193 s -- in hus.vuhso.configserver.ConfigServerApplicationTests
